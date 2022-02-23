@@ -26,7 +26,8 @@ Fits all pages in a pdf to the page size w x h.
 ## Helpful commands
 
 * `cat`: Concatenates files and prints on the standard output
-* `grep`: print lines that match patterns
+* `grep`: print lines that match patterns \
+   e.g. `grep TODO *` - prints all files and lines that contain "TODO"
 
 ## System information:
 
