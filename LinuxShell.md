@@ -26,6 +26,8 @@ Convert an concatenate formats jpeg, jpg, png and other into one pdf file: \
 * `cat`: Concatenates files and prints on the standard output
 * `grep`: print lines that match patterns \
    e.g. `grep TODO *` - prints all files and lines that contain "TODO"
+* `dpkg -i package.deb` install a ubuntu package manually.
+
 
 ## System information:
 
